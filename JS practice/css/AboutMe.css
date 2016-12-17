@@ -1,0 +1,114 @@
+#content {
+    width: 1000px;
+    height: 100%;
+    background-image: url("http://a.dryicons.com/files/graphics_previews/DD-Space-Background-20134-Preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+body {
+    width:1000px;
+    margin:auto;
+
+}
+
+#mainpart {
+    width:1000px;
+    margin: auto;
+
+}
+#first {
+    width: 1000px;
+    height: 300px;
+    margin:auto;
+    border-bottom: 1px solid white;
+}
+
+.myphoto {
+    opacity:0.7;
+}
+
+.show {
+    opacity: 1;
+    border: 1px solid blue;
+}
+
+#second {
+    width: 1000px;
+    height:600px;
+    margin:auto;
+    /*border: 1px solid blue;*/
+
+}
+
+
+#resume {
+    margin:auto;
+    width: 750px;
+    height: 600px;
+}
+
+#basic-info {
+    width: 400px;
+    background-color: white;
+}
+
+#button {
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+#button .active {
+    background-color: white;
+}
+#button input {
+    display: inline-block;
+    background-color: lightgray;
+    width: 150px;
+    height: 40px;
+    font-size: 14px;
+}
+
+#info div{
+    width: 750px;
+    height:500px;
+    margin:auto;
+    display: none;
+    background-color: white;
+    border:1px solid lightgoldenrodyellow;
+}
+
+#info img{
+    width: 225px;
+    height: 300px;
+    float: right;
+    margin:50px 40px 0 0;
+}
+
+#basic-info p {
+    margin: 45px auto auto 50px;
+}
+
+h1 {
+    margin-left: 20px;
+    color: #003eff;
+    font-size: 25px;
+}
+
+#edu h2 {
+    margin-left: 35px;
+    font-size: 20px;
+}
+#edu p {
+    margin-left: 50px;
+}
+
+#work-exp p {
+    margin-left: 50px;
+    margin-top: auto;
+    margin-bottom:auto;
+}
+
+
+

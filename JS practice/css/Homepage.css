@@ -1,0 +1,101 @@
+
+#content {
+    width: 1000px;
+    height: 100%;
+    background-image: url("http://a.dryicons.com/files/graphics_previews/DD-Space-Background-20134-Preview.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+
+body {
+    width:1000px;
+    margin:auto;
+
+}
+
+#mainpart {
+    width:1000px;
+    margin: auto;
+}
+
+#left{
+    width: 300px;
+    height: 695px;
+    overflow: hidden;
+    margin:auto;
+    border: 1px solid white;
+}
+
+
+.datepicker {
+    width: 300px;
+    margin-top: 20px;
+    overflow: hidden;
+    clear: both;
+}
+
+#playlist {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://image.freepik.com/free-vector/colorful-musical-elements_23-2147508894.jpg");
+    border:1px solid blue;
+}
+
+#playlist label{
+    background-color: white;
+    display: block;
+    width: 300px;
+    height: 50px;
+    text-align: left;
+    padding-left: 20px;
+    line-height: 50px;
+    border: 1px solid lightgray;
+    opacity: 0.8;
+}
+
+button {
+    width: 95px;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+#right{
+    margin:auto;
+    width: 700px;
+    height: 695px;
+    overflow: hidden;
+    border: 1px solid white;
+    border-left: none;
+}
+
+
+fieldset{
+    background-color: lightgrey;
+    border: 1px solid white;
+    width: 400px;
+    margin: auto;
+}
+
+.QR{
+    display: block;
+    width: 300px;
+    height: 20px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+select {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
